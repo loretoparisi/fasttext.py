@@ -1,0 +1,5 @@
+torch
+torchtext==0.9.0
+spacy
+pandas
+sklearn
